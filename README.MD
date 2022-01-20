@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://imgur.com/g09WL2j" height="175px"/></a>
-
 <h1 align="center">Salut, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> je suis Ziirox</h1>
 <h3 align="center">Passionné par les jeux video et la programmation.</h3>
 <h3 align="center"><img src="https://icon-library.com/images/france-icon/france-icon-15.jpg"/ width="45"></h3>
