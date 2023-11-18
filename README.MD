@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ À propos de moi
 
-- 💻 Fondateur/Développeur de **[...]()**
+- 💻 Fondateur/Développeur de **[...](discord.gg/)**
 
 - 📫 Voici mon adresse mail perso **marwanecherkarypro@gmail.com**
 
