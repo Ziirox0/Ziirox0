@@ -63,7 +63,7 @@
 </p>
 
 ## ❤ Vues et abonnés
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://komarev.com/ghpvc/?Ziirox0">
     <img src="https://komarev.com/ghpvc/?username=Ziirox0">
 </a>
 <a href="https://github.com/Ziirox0?tab=followers"><img src="https://img.shields.io/github/followers/HydraDevFR?label=Followers&style=social" alt="GitHub Badge"></a>
