@@ -43,15 +43,6 @@
   <br/>
   <b>Note:</b> Les principales languages ne sont qu'une mesure dans lesquelles se compose mes créations et ne reflètent pas l'expérience ou le niveau de compétence.
 
-
-<br/>
-<br/>
-
-<a href="https://github.com/Ziirox0/github-readme-activity-graph"><img alt="Graphique d'activité de Ziirox" src="https://activity-graph.herokuapp.com/graph?username=Ziirox0&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 ## Liens utiles
 <p align="left">
 
