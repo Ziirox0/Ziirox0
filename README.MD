@@ -5,9 +5,7 @@
 
 ## 🙋‍♂️ À propos de moi
 
-- 💻 Fondateur/Développeur de **[...](discord.gg/)**
-
-- 📫 Voici mon adresse mail perso **marwanecherkarypro@gmail.com**
+- 💻 Jeune développeur et passionné par tout ce qui touche la programmation
 
 - ⚡ Préfere les jeux d'aventures en coopération.
 
@@ -61,9 +59,3 @@
 <a href = "https://www.youtube.com/channel/UCnSeUXCkOFYsFHT_KRfETbw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
-
-## ❤ Vues et abonnés
-<a href="https://komarev.com/ghpvc/?Ziirox0">
-    <img src="https://komarev.com/ghpvc/?username=Ziirox0">
-</a>
-<a href="https://github.com/Ziirox0?tab=followers"><img src="https://img.shields.io/github/followers/HydraDevFR?label=Followers&style=social" alt="GitHub Badge"></a>
