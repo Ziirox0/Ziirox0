@@ -31,7 +31,7 @@
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=HydraDevFR&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=Ziirox0&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -39,7 +39,7 @@
 
   <br/>
     <a href="https://github.com/Ziirox0/github-readme-stats"><img alt="Statistiques Github de Ziirox0" src="https://github-readme-stats.vercel.app/api?username=Ziirox0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Ziirox0/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HydraDevFR&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ziirox0/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziirox0&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Les principales langages ne sont qu'une mesure dans laquelle se composent mes créations et ne reflètent pas l'expérience ou le niveau de compétence. Après avoir vu tous les langages et outils ci-dessus, vous pensez que je suis calé dans tout mais je ne fais que m'intéresser et je sais les utiliser quand il le faut =).
 
