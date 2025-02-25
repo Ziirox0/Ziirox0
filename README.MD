@@ -38,8 +38,8 @@
 ## 📊 Mes statistiques Github
 
   <br/>
-    <a href="https://github.com/Ziirox0/github-readme-stats"><img alt="Statistiques Github de Ziirox0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" /></a>
-  <a href="https://github.com/Ziirox0/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" /></a>
+    <a href="https://github.com/Ziirox0/github-readme-stats"><img alt="Statistiques Github de Ziirox0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziirox0" /></a>
+  <a href="https://github.com/Ziirox0/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziirox0" /></a>
   <br/>
   <b>Note:</b> Les principales langages ne sont qu'une mesure dans laquelle se composent mes créations et ne reflètent pas l'expérience ou le niveau de compétence. Après avoir vu tous les langages et outils ci-dessus, vous pensez que je suis calé dans tout mais je ne fais que m'intéresser et je sais les utiliser quand il le faut =).
 
